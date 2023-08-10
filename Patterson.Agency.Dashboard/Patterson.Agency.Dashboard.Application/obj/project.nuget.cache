@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WTNPdSn99gikuT/CawihDLzJuCiA+rYJsKxnvB43YXW1RquUgDTSU8e5eyzLL2KBCvFkkH6yk3lSeZimXlqHA==",
+  "success": true,
+  "projectFilePath": "C:\\Patterson.Agency.Dashboard\\Patterson.Agency.Dashboard\\Patterson.Agency.Dashboard.Application\\Patterson.Agency.Dashboard.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facundo.finos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\facundo.finos\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\facundo.finos\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\facundo.finos\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\facundo.finos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
